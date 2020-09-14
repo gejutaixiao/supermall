@@ -35,6 +35,7 @@
     display: flex;
     text-align: center;
     padding: 10px;
+    background-color: #fff;
   }
 
   .tab-control-item {
